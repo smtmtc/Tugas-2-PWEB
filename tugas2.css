@@ -1,0 +1,27 @@
+.container{
+    width: 1360px;
+    height: 720px;
+    background-color: black;
+}
+
+.kotak-1{
+    width: 400px;
+    height: 400px;
+    background-color: cyan;
+    text-align: center;
+    position: relative;
+    right: -100px;
+    top: 70px;
+    
+}
+
+.kotak-2{
+    width: 400px;
+    height: 400px;
+    background-color: cyan;
+    text-align: center;
+    position: relative;
+    left: 800px;
+    bottom: 330px;
+
+}
